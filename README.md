@@ -53,7 +53,7 @@ To get started with the project, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/KoryrKoryr/Lateshow-Code-Challenge
-   cd cd Lateshow-Code-Challenge
+   cd Lateshow-Code-Challenge
    ```
 2. **Install Pipenv**:
    If you don't have Pipenv installed, install it via pip:
