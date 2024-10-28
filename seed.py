@@ -2,6 +2,7 @@ import csv
 from models import db, Episode, Guest, Appearance
 from flask import Flask
 
+#
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///lateshow.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
